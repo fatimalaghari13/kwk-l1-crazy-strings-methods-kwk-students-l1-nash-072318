@@ -1,9 +1,8 @@
 # write your method here
 
 def crazy_strings
-  puts "Hello, F
-  puts "Friends"
-  
-  
-
+  puts "Hello, Friends" .reverse.upcase
+  puts "Hello, Friendz" .swapcase
 end
+
+crazy_strings
